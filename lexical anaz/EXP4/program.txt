@@ -1,0 +1,15 @@
+Void main()
+{
+    int a, b, c;
+    c = a + b;
+}
+
+
+#include <stdio.h>
+int main()
+{
+ 
+    printf("Hello World");
+ 
+    return 0;
+}
